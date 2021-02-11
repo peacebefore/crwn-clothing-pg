@@ -24,14 +24,7 @@ const shopReducer = (state = INITIAL_STATE, action) => {
         ...state,
         isFetching: false,
         errorMessage: action.payload
-      }
-
-    case ShopActionTypes.UPDATE_COLLECTIONS:
-      return {
-        ...state,
-        collections: action.payload
-      }
-
+      };
     default:
       return state;
   }
