@@ -1,4 +1,4 @@
-# Crown Clothing E-Commerce App _In Progress_
+<!-- # Crown Clothing E-Commerce App _In Progress_
 
 I'm building this e-commerce clothing app as part of the Complete React Developer course from [Zero to Mastery Academy](https://academy.zerotomastery.io/), taught by [Andrei Neagoie](https://zerotomastery.io/about/instructor/andrei-neagoie/) and [Yihua Zhang](https://zerotomastery.io/about/instructor/yihua-zhang/).
 
@@ -21,4 +21,4 @@ I'm building this e-commerce clothing app as part of the Complete React Develope
 
 ### Course in Progress
 
-I'm still building (and at times re-building) this project to learn each topic at a fundamental level so that I have a deeper understanding of the how's and why's behind each skill or tool. I have already learned a great deal and am excited to present the final product soon!
+I'm still building (and at times re-building) this project to learn each topic at a fundamental level so that I have a deeper understanding of the how's and why's behind each skill or tool. I have already learned a great deal and am excited to present the final product soon! -->
