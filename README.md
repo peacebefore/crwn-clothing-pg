@@ -1,6 +1,6 @@
 # Crown Clothing E-Commerce App
 
-I implemented this e-commerce clothing app as part of the Complete React Developer course from [Zero to Mastery Academy](https://academy.zerotomastery.io/), taught by [Andrei Neagoie](https://zerotomastery.io/about/instructor/andrei-neagoie/) and [Yihua Zhang](https://zerotomastery.io/about/instructor/yihua-zhang/).
+I implemented the [Crown Clothing](https://crwn-clothing-pg.herokuapp.com/) e-commerce clothing app as part of the Complete React Developer course from [Zero to Mastery Academy](https://academy.zerotomastery.io/), taught by [Andrei Neagoie](https://zerotomastery.io/about/instructor/andrei-neagoie/) and [Yihua Zhang](https://zerotomastery.io/about/instructor/yihua-zhang/).
 
 ![App Homepage](https://user-images.githubusercontent.com/42794888/123180310-e5e5c180-d43f-11eb-92af-a9e59447bfff.png)
 > Browse through collections of clothing and shoes
