@@ -9,6 +9,14 @@ I implemented the [Crown Clothing](https://crwn-clothing-pg.herokuapp.com/) e-co
 > Purchase items from your cart using Stripe integration
 
 ___
+### Features
+* Create a login account authenticated by Firebase
+* Clean, easy to use UI
+* Select a collection of clothing to view from the home screen
+* Add or remove items from your cart; view the cart as a dropdown or as a full page
+* Make payments via Stripe
+* Save cart items for later
+
 ### Tools Used for this Project
 
 #### Tech Stack
@@ -20,12 +28,10 @@ ___
 - CSS in JS with styled-components
 
 #### APIs
-
 - Firebase to store shop collections and handle user authentication
 - Stripe for front and backend to process payments
 
 #### Items Still in Progress
-
 - GraphQL to manage state at a larger scale
 - Jest Library for Testing
 - Also implemented project as a Progressive Web App
